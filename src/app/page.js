@@ -8,7 +8,7 @@ const Page = () => {
 
       <p className="mt-3 text-sm lg:text-lg">
         To chat with the website, use a URL in the following format:{' '}
-        <span className="font-bold text-zinc-300 break-all">{window.location.origin}/target_url</span>
+        <span className="font-bold text-zinc-300 break-all">base_url/target_url</span>
       </p>
 
       <p>For example:</p>
