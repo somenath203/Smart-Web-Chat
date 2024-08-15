@@ -19,7 +19,7 @@ const Page = () => {
           target="_blank"
           rel="noopener noreferrer"
         >
-          http://localhost:3000/https:/en.wikipedia.org/wiki/Albert_Einstein
+          https://smart-web-chat.vercel.app/https:/en.wikipedia.org/wiki/Albert_Einstein
         </a>
       </p>
 
