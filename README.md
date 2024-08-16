@@ -21,6 +21,10 @@ Smart Web Chat is a platform designed to facilitate interactive conversations wi
 - **Tailwind CSS**: A utility-first CSS framework for styling and creating responsive designs.
 - **NextUI**: Provides a modern and customizable user interface library for React applications.
 
+## Deployed URL of the project
+
+https://smart-web-chat.vercel.app/
+
 ## Disclaimer
 
 The creator of this application is not responsible for any incorrect content created as Meta-Llama-3-8B-Instruct's functioning is beyond the creator's control.
