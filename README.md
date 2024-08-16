@@ -20,7 +20,7 @@ Smart Web Chat is a platform designed to facilitate interactive conversations wi
 
 - **Meta-Llama-3-8B-Instruct**: A powerful language model for generating context-aware responses.
 - **Upstash RAG Model**: Utilized for efficient retrieval-augmented generation, enhancing chat responses with relevant data.
-- **Upstash Redis Database**: Stores website URLs to manage and track indexed content and user-bot chat history.
+- **Upstash Redis Database**: Tracks and manages indexed content by storing website URLs, while also maintaining a history of user-bot interactions.
 - **Next.js**: A React framework for building server-side rendered and static websites.
 - **Tailwind CSS**: A utility-first CSS framework for styling and creating responsive designs.
 - **NextUI**: Provides a modern and customizable user interface library for React applications.
