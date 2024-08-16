@@ -1,5 +1,9 @@
 # Smart Web Chat
 
+## Demo Video of the application
+
+https://github.com/user-attachments/assets/005191d0-3577-40a0-a6a9-2fec57b0c889
+
 ## Introduction
 
 Smart Web Chat is a platform designed to facilitate interactive conversations with websites. Powered by the Meta-Llama-3-8B-Instruct Large Language Model, it delivers a smooth and engaging experience for users. Whether you're seeking information or looking for specific answers, Smart Web Chat enhances your interaction with web content through advanced AI capabilities.
