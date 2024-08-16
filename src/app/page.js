@@ -8,18 +8,18 @@ const Page = () => {
 
       <p className="mt-3 text-sm lg:text-lg">
         To chat with the website, use a URL in the following format:{' '}
-        <span className="font-bold text-zinc-300 break-all">base_url/target_url</span>
+        <span className="font-bold text-zinc-300 break-all">base_url//target_url</span>
       </p>
 
       <p>For example:</p>
 
       <p className="text-sm lg:text-lg underline break-all">
         <a
-          href="http://localhost:3000/https:/en.wikipedia.org/wiki/Albert_Einstein"
+          href="https://smart-web-chat.vercel.app//https:/en.wikipedia.org/wiki/Albert_Einstein"
           target="_blank"
           rel="noopener noreferrer"
         >
-          https://smart-web-chat.vercel.app/https:/en.wikipedia.org/wiki/Albert_Einstein
+          https://smart-web-chat.vercel.app//https:/en.wikipedia.org/wiki/Albert_Einstein
         </a>
       </p>
 
