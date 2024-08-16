@@ -31,4 +31,4 @@ https://smart-web-chat.vercel.app/
 
 ## Disclaimer
 
-The creator of this application is not responsible for any incorrect content created as Meta-Llama-3-8B-Instruct's functioning is beyond the creator's control.
+The creator of this application is not responsible for any incorrect content created as Meta-Llama-3-8B-Instruct and Upstash Rag Model's functioning is beyond the creator's control.
