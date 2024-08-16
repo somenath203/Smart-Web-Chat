@@ -15,7 +15,7 @@ const Page = () => {
 
       <p className="text-sm lg:text-lg underline break-all">
         <a
-          href="http://localhost:3000//https:/en.wikipedia.org/wiki/Albert_Einstein"
+          href="https://smart-web-chat.vercel.app//https:/en.wikipedia.org/wiki/Albert_Einstein"
           target="_blank"
           rel="noopener noreferrer"
         >
